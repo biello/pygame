@@ -8,3 +8,5 @@ pip install pygame
 cd pixel_art
 python main.py
 ```
+
+![image](https://user-images.githubusercontent.com/11658142/229101903-fe0198b9-3b41-4827-81a4-6bd41cb92108.png)
